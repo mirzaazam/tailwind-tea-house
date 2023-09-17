@@ -27,6 +27,12 @@ left-50 {
         margin-top: 10px;
         margin-bottom: 10px;
     }
+
+    .rateing-star{
+        position: absolute;
+        left: 25%;
+        top: 80%;
+    }
 }
 
 
